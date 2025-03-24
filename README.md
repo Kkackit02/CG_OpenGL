@@ -9,7 +9,7 @@ These files serve as **project-specific reports or documentation**.
 
 ## Getting Started
 
-1) Clone this project  
+1) Clone this project (or download it as a ZIP file)
 2) Open `CG_OpenGL/**<assignment_name>**/OpenglViewer.sln`<br>
    (Currently, only one assignment is shown as an example, but more assignment folders (e.g., `assignment2`, `assignment3`, ...) will be continuously added in the same format.)
    
