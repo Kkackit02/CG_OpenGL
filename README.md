@@ -10,13 +10,16 @@ These files serve as **project-specific reports or documentation**.
 ## Getting Started
 
 1) Clone this project  
-2) Open `CG_OpenGL/**<assignment_name>**/OpenglViewer.sln`  
+2) Open `CG_OpenGL/**<assignment_name>**/OpenglViewer.sln`<br>
+   (Currently, only one assignment is shown as an example, but more assignment folders (e.g., `assignment2`, `assignment3`, ...) will be continuously added in the same format.)
+   
+   ![image](https://github.com/user-attachments/assets/32847b4f-a6b9-4e6f-a86a-40d5942e5bcd)
    ![image](https://github.com/user-attachments/assets/d4b1ff80-2d38-4148-8325-c9a1256603ff)
 
-3) Open `Main_EmptyViewer.cpp` in the `OpenglViewer` project  
+5) Open `Main_EmptyViewer.cpp` in the `OpenglViewer` project  
    ![image](https://github.com/user-attachments/assets/a789387d-2104-4a08-b97a-ba7913a0795f)
 
-4) Press **F5** to build and run the project  
+6) Press **F5** to build and run the project  
    ![image](https://github.com/user-attachments/assets/792c9ef2-2202-4990-bdd3-653959f08502)
 
 ---
