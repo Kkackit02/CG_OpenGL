@@ -10,4 +10,6 @@
 - This project is compatible with *Visual Studio 2022*
 - It is Implemented using OpenGL
 
-### **No additional installation is required** — clone the repository and follow the steps above to get started.
+### Just make sure you have **Visual Studio 2022** with the **C/C++ development workload** installed.
+### clone the repository and follow the steps above to get started.
+ **Everything else is already included in the provided files**, so you can get started right away.
