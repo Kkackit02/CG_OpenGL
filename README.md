@@ -9,5 +9,5 @@
 
 - This project is compatible with *Visual Studio 2022*
 - It is Implemented using OpenGL
-- 
+
 ### **No additional installation is required** — clone the repository and follow the steps above to get started.
